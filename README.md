@@ -1,6 +1,9 @@
 # Aman Rawat
 Vice President of Engineering | TFG
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amanrawat/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/yourusername)
+
 Results-driven Engineering Manager with 10+ years of experience. Successfully built 3 products from scratch (CoffeeMug.ai, TalentMug/GPT, LawRato.com). Led the expansion of the team from a single developer to a group of 20+, overseeing performance evaluations and new recruitments. Proficiently operated across various tech stacks including LAMP, MEAN, MERN, ELK, Python-Django, ReactNative, and Serverless. Executed the integration of load balancing, monitoring, and VPN within the organizational framework.
 
 ## Skills
@@ -47,5 +50,7 @@ Results-driven Engineering Manager with 10+ years of experience. Successfully bu
 - Delivered tailored technology solutions to meet client needs.
 - Implemented efficient system monitoring and management practices.
 
-## Contact
+## Contact Me
+- Email: aman@example.com
 - LinkedIn: [Connect](https://www.linkedin.com/in/amanrawat/)
+- GitHub: [Follow](https://github.com/yourusername)
